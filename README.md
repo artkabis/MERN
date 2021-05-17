@@ -20,4 +20,4 @@
 
 ## Running issues fixes
 MongoDB: "*Failed to set up listener: SocketException: Address already in use*" -> npm run killmongo
-NodeJS Version Incompatibility: Run *nvm use* in project folder ([nvm installation link](https://github.com/nvm-sh/nvm))
+NodeJS Version Incompatibility: Run *nvm use* in project folder ([nvm installation link](https://github.com/nvm-sh/nvm))# MERN
